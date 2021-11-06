@@ -1,0 +1,6 @@
+CREATE table abcdefghriwwwworaclecomdatabasegoogletestabcdefgabcdefghriwwwworaclecomdatabasegoogletestabcdefg
+(id int, colnamecolnamecolnamecolnamecolnamecolnamecolnamecolnamecolnamecolnamecolnamecolnamecolnamecolnamecolname varchar2(5000));
+
+ select lengthb('abcdefghriwwwworaclecomdatabasegoogletestabcdefgabcdefghriwwwworaclecomdatabasegoogletestabcdefg') from dual;
+ select lengthb('colnamecolnamecolnamecolnamecolnamecolnamecolnamecolnamecolnamecolnamecolnamecolnamecolnamecolnamecolname') from dual;
+ 
